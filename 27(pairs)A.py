@@ -1,4 +1,4 @@
-f = open('test.txt')
+f = open('')
 n = int(f.readline())
 s = [0]
 
